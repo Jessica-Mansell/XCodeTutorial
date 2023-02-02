@@ -12,7 +12,7 @@ struct ContentView: View {
         
         ZStack {
             
-            Color(.black)
+            Color(.black)
                 .ignoresSafeArea()
             
             VStack {
